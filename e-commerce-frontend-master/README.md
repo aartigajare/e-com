@@ -1,6 +1,6 @@
 # E-Commerce Basketball Store Frontend
 
-This is the frontend part of the Sabanci University's 2020-2021 Spring Term CS 308 Project. You can reach the backend part of this code from [buraksekili/ecommerce-backend](https://github.com/buraksekili/ecommerce-backend). 
+
 
 You can see the screenshots of the application from [screenshots](#screenshots) part. 
 
@@ -21,17 +21,11 @@ In short terms, this project covers the basics of a e-commerce website. Since me
 
 
 ## How to run the project
-1. First you need to clone the project with and go to directory
-	```
-	> git clone https://github.com/ocakhasan/e-commerce-frontend.git
-	> cd e-commerce-frontend
-	```
-2. Then you need to go to [backend](https://github.com/buraksekili/ecommerce-backend) part and complete the steps explained in the [readme](https://github.com/buraksekili/ecommerce-backend/blob/master/README.md).
-3. Then you need to install the dependencies with
+ Install the dependencies with
 	```
 	> yarn install or npm install
-	```
-4. Then you need to start the server with 
+
+ Then you need to start the server with 
 	```
 	> yarn start or npm start
 	```
